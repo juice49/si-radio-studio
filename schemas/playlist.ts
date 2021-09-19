@@ -26,7 +26,7 @@ export default {
       ],
     },
     {
-      name: 'tracks',
+      name: 'entries',
       type: 'array',
       of: [
         {
